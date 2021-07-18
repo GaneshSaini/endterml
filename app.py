@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Dikshant Mali
+@author: Ganesh  Saini
 """
 
 import streamlit as st 
@@ -59,7 +59,7 @@ def main():
    <div class="" style="background-color:#fa8072" >
    <div class="clearfix">           
    <div class="col-lg-12">
-   <center><p style="font-size:40px;color:black;margin-top:10px;">Midterm 1(Dikshant Mali)</p></center> 
+   <center><p style="font-size:40px;color:black;margin-top:10px;">Midterm 1(Ganesh Saini)</p></center> 
    <center><p style="font-size:30px;color:black;margin-top:10px;">Department of Computer Engineering PIET,Jaipur</p></center> 
    <center><p style="font-size:25px;color:black;margin-top:10px;"Machine Learning Lab </p></center> 
    </div>
@@ -82,7 +82,7 @@ def main():
       st.success('{} '.format(result))
       
     if st.button("About"):
-      st.subheader("Developed by Dikshant Mali")
+      st.subheader("Developed by Ganesh Saini")
       st.subheader("Student , Poornima Institute Of Engineering And Technology")
 
 if __name__=='__main__':
